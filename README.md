@@ -8,7 +8,7 @@
 
 ## 🧠 What is AetherPlan?
 
-**AetherPlan** is a beautifully animated, highly responsive **weekly task planner web app** that combines stunning visuals with practical usability. Inspired by the storytelling aesthetics of [Story Foundation](https://www.story.foundation), it’s not just a productivity tool — it’s an experience.
+**AetherPlan** is a beautifully animated, highly responsive **weekly task planner web app** that combines stunning visuals with practical usability. 
 
 Move tasks with grace, enjoy character interactions, and stay focused in a pastel-glow world crafted for creators, dreamers, and doers.
 
