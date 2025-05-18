@@ -1,73 +1,46 @@
-# Welcome to your Lovable project
+# 🌈 AetherPlan: Your Magical Weekly Task World ✨
 
-## Project info
+> A dreamy, drag-and-drop planner where your tasks come alive. Built for joy, focus, and futuristic productivity.
 
-**URL**: https://lovable.dev/projects/e0fcf2f1-7cfe-48ca-a2e1-5ee93597d545
+![AetherPlan Cover](./assets/images/cover-preview.png)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🧠 What is AetherPlan?
 
-**Use Lovable**
+**AetherPlan** is a beautifully animated, highly responsive **weekly task planner web app** that combines stunning visuals with practical usability. Inspired by the storytelling aesthetics of [Story Foundation](https://www.story.foundation), it’s not just a productivity tool — it’s an experience.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e0fcf2f1-7cfe-48ca-a2e1-5ee93597d545) and start prompting.
+Move tasks with grace, enjoy character interactions, and stay focused in a pastel-glow world crafted for creators, dreamers, and doers.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ✨ Features at a Glance
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 🗓️ **Drag-and-drop weekly calendar (Sun–Sat)**
+- 🎨 **Color-coded task cards** with smooth hover, flip, and drop animations
+- 🎮 **Animated characters/mascots** that react to your task moves
+- 🔮 **Glassmorphic calendar columns** with parallax and layered motion
+- 🌌 **Animated background** (floating lights, subtle particles, motion-reactive effects)
+- 🧚 **Onboarding walkthrough** with page transitions
+- 🌙 **Light/Dark theme toggle** with animated switch
+- 🧘 **Focus Mode**: Dim the UI and highlight your active task
+- 🎬 **Lottie animations** for task success, drop, and hover
+- 💻 **Fully responsive** for desktop, tablet, and mobile with touch gestures
+- ⚡️ **Keyboard shortcuts + tooltips** for power users
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+| Tech                     | Use Case                                           |
+|--------------------------|----------------------------------------------------|
+| `React + TypeScript`     | Frontend Framework                                |
+| `Tailwind CSS`           | Fast and custom utility-first styling             |
+| `Framer Motion`          | UI & route animations                             |
+| `DndKit`                 | Drag-and-drop interactions                        |
+| `React Spring`           | Background motion & floating effects              |
+| `Lottie` (via CDN)       | Task animations                                   |
+| `React Three Fiber`      | Dynamic gradient & floating background            |
+| `Vercel`                 | Instant deployment                                |
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/e0fcf2f1-7cfe-48ca-a2e1-5ee93597d545) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
